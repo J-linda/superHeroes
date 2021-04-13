@@ -50,7 +50,7 @@ h1 {
     width: 605px;
     height: 300px;
     border-radius: 30px 30px 0px 0px;
-    background-image: url('/img/bg-batman.jpg');
+    background-image: url('../img/bg-batman.jpg');
     background-size: cover;
 }
 
@@ -69,7 +69,7 @@ h1 {
     position: relative;
     width: 200px;
     height: 200px;
-    background-image: url('/img/batman.jpg');
+    background-image: url('../img/batman.jpg');
     border-radius: 50%;
     background-size: cover;
     background-position: center;
@@ -131,7 +131,7 @@ button {
     width: 605px;
     height: 300px;
     border-radius: 30px 30px 0px 0px;
-    background-image: url('/img/bg-wonderw.jpg');
+    background-image: url('../img/bg-wonderw.jpg');
     background-size: cover;
 }
 
@@ -139,7 +139,7 @@ button {
     position: relative;
     width: 200px;
     height: 200px;
-    background-image: url('/img/wonderw.jpg');
+    background-image: url('../img/wonderw.jpg');
     border-radius: 50%;
     background-size: cover;
     background-position: center;
@@ -167,7 +167,7 @@ button {
     width: 605px;
     height: 300px;
     border-radius: 30px 30px 0px 0px;
-    background-image: url('/img/bg-superman.jpg');
+    background-image: url('../img/bg-superman.jpg');
     background-size: cover;
 }
 
@@ -175,7 +175,7 @@ button {
     position: relative;
     width: 200px;
     height: 200px;
-    background-image: url('/img/superman.jpg');
+    background-image: url('../img/superman.jpg');
     border-radius: 50%;
     background-size: cover;
     background-position: center;
