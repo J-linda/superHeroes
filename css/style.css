@@ -8,6 +8,12 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+header {
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+}
+
 .descuentos {
     background: #1CD1B0;
     height: 61px;
@@ -19,7 +25,6 @@ body {
     height: 122px;
     top: 60px;
     background: #00669F;
-    position: sticky;
 }
 
 .parrafo-descuento {
@@ -81,7 +86,6 @@ h1 {
 .nombre-parrafo {
     position: relative;
     bottom: 143px;
-    z-index: 10;
 }
 
 h2 {
@@ -183,7 +187,6 @@ button {
     margin-left: auto;
     margin-right: auto;
     bottom: 120px;
-    z-index: 5;
 }
 
 .footer {
